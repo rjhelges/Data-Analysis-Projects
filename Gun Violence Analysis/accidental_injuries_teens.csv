@@ -1,0 +1,501 @@
+"Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+"November 19, 2016",Illinois,"Pembroke Township","13500E block of 2000S Road",0,1,N/A
+"November 15, 2016",Michigan,"Alcona (county)",N/A,0,1,N/A
+"November 13, 2016",Oregon,Lebanon,"36400 block of Gore Drive",0,1,N/A
+"November 13, 2016",Indiana,Vevay,"Ashland Cove Road",0,1,N/A
+"November 13, 2016","New Jersey",Paterson,"Fair Street",0,1,N/A
+"November 12, 2016",Michigan,"Grand Rapids","Griggs Street",0,1,N/A
+"November 11, 2016",Wisconsin,"Oconto (county)",N/A,0,1,N/A
+"November 6, 2016",Indiana,"Posey (county)","River Road",0,2,N/A
+"November 5, 2016",Georgia,Jonesboro,"10000 block of Fitzgerald Road",0,1,N/A
+"November 5, 2016",Arizona,Phoenix,"55th Avenue and Clarendon",0,1,N/A
+"November 3, 2016",Maine,Springfield,N/A,0,1,N/A
+"October 31, 2016",Pennsylvania,Lebanon,"302 E Weidman Street",0,1,N/A
+"October 30, 2016",Louisiana,"Plain Dealing",N/A,0,1,N/A
+"October 28, 2016","West Virginia",Hedgesville,"Durham Drive",0,1,N/A
+"October 26, 2016",Ohio,Zanesville,"507 Imlay Avenue",0,1,N/A
+"October 26, 2016",Florida,"Pinellas Park","7600 block of 62nd Way",0,1,N/A
+"October 22, 2016",Maine,"New Sharon","236 Starks Road",0,1,N/A
+"October 22, 2016",Ohio,Cleveland,"East 131st",0,2,N/A
+"October 17, 2016",Indiana,Elkhart,"311 East Carlton Avenue",0,2,N/A
+"October 16, 2016",Kansas,"Cowley (county)","22000 block of 12th Road",0,1,N/A
+"October 16, 2016","North Dakota",Abercrombie,N/A,0,1,N/A
+"October 14, 2016",Illinois,Freeport,"1100 block of South State Ave",0,1,N/A
+"October 12, 2016",Kentucky,Louisville,"5600 block of Rustic Way",0,1,N/A
+"October 12, 2016",Arizona,Peoria,"7522 W Deer Valley Rd",0,2,N/A
+"October 11, 2016",Illinois,Chicago,"2800 block of South Central Park",0,1,N/A
+"October 5, 2016","North Dakota",Enderlin,N/A,0,1,N/A
+"October 4, 2016",Tennessee,Nashville,"1400 block of 16th Avenue North",0,1,N/A
+"October 4, 2016",Florida,Immokalee,"300 block of South Seventh Street",0,1,N/A
+"October 2, 2016",Tennessee,Memphis,"3400 block of Dupre Street",0,1,N/A
+"October 2, 2016",Pennsylvania,Indiana,"Airport Road",0,1,N/A
+"October 1, 2016",Ohio,Lima,"4251 Reservoir Road",0,1,N/A
+"September 26, 2016",Kentucky,Lexington,"3500 block of Gunbow Court",0,1,N/A
+"September 26, 2016",Georgia,Norcross,"1400 block of Wingfoot Way",0,1,N/A
+"September 25, 2016",Tennessee,"Nashville (Donelson)","209 Blue Hills Drive",0,1,N/A
+"September 24, 2016",Utah,Sandy,"9575 S State St",0,2,N/A
+"September 20, 2016","North Carolina",Wilmington,"15th and Castle Streets",0,1,N/A
+"September 16, 2016",Texas,"Harris (county)",N/A,0,1,N/A
+"September 16, 2016",Georgia,"Morgan (county)","Hawkins Avenue",0,1,N/A
+"September 15, 2016",Wisconsin,Milwaukee,"7878 N 60th Street",0,1,N/A
+"September 15, 2016",California,Fresno,"2500 block of Fairmont",0,1,N/A
+"September 8, 2016",Texas,Alpine,"704 West Sul Ross Avenue",1,2,N/A
+"September 8, 2016",Tennessee,Nashville,"Wildgrove Court",0,1,N/A
+"September 5, 2016",Kentucky,Lexington,"Augusta Drive",0,1,N/A
+"August 30, 2016",Illinois,"Chicago (Englewood)","600 block of West 61st Place",0,1,N/A
+"August 30, 2016",Kentucky,Lexington,"175 North Locust Hill Dr",0,1,N/A
+"August 29, 2016",Pennsylvania,Philadelphia,"2100 block of South Etting Terr",0,2,N/A
+"August 28, 2016",Kansas,Hutchinson,"300 block of East 11th Ave",0,1,N/A
+"August 28, 2016",Georgia,Savannah,"1400 block of New Jersey St",0,1,N/A
+"August 19, 2016",Michigan,Detroit,"Glastonbury Ave",0,1,N/A
+"August 15, 2016",Indiana,"Michigan City","1107 Wabash St",0,1,N/A
+"August 14, 2016",Pennsylvania,Erie,"200 block of W 20th St",0,1,N/A
+"August 12, 2016",Washington,"Lake Stevens","13600 block of 12th Street Northeast",0,1,N/A
+"August 9, 2016",Pennsylvania,Harrisburg,"2600 Woodlawn Street",0,1,N/A
+"August 7, 2016",Virginia,Portsmouth,"100 block of Carol Lane",0,1,N/A
+"August 7, 2016",Texas,Texarkana,"300 block of Breckenridge Street",0,1,N/A
+"August 4, 2016",Indiana,"Terre Haute",N/A,0,1,N/A
+"August 2, 2016","South Carolina",Coward,"4312 Circle Drive",1,1,N/A
+"July 31, 2016",Michigan,Jackson,"300 block of Moorman Drive",0,1,N/A
+"July 27, 2016",Texas,"Fort Worth","3600 block of Hulen Park Circle",0,1,N/A
+"July 24, 2016","North Carolina","Rocky Mount","400 block of Ambler Avenue",0,1,N/A
+"July 21, 2016",Florida,"Saint Petersburg","600 block of 44th Street South",0,1,N/A
+"July 20, 2016",Michigan,Kalamazoo,"2100 block of Sunnyside Drive",0,1,N/A
+"July 15, 2016",Washington,Seattle,"3400 block of 34 Ave S.",0,1,N/A
+"July 14, 2016",Michigan,Eastpointe,"22385 Hayes Avenue",0,2,N/A
+"July 14, 2016",Colorado,"Denver (Edgewater)",N/A,0,1,N/A
+"July 14, 2016",Kentucky,Lexington,"Lindberg Drive",0,1,N/A
+"July 13, 2016",Kentucky,Louisville,"3000 block of University Road",0,1,N/A
+"July 11, 2016",Alabama,Birmingham,"1700 block of 28th Street Ensley",0,1,N/A
+"July 11, 2016",Nebraska,Omaha,"4700 block of Fowler Avenue",0,1,N/A
+"July 7, 2016","New York","Niagara Falls","22nd Street and Forest Avenue",0,1,N/A
+"July 6, 2016",Florida,"Saint Johns (Fruit Cove)","1300 block of Lemonwood Road",0,1,N/A
+"July 6, 2016","New Jersey","Jersey City","Arlington Avenue",0,1,N/A
+"July 6, 2016",Ohio,"Beachwood (Highland Hills)","4053 Warrensville Center Rd",0,1,N/A
+"July 6, 2016",Pennsylvania,Philadelphia,"Bloyd Street",0,1,N/A
+"July 4, 2016",Missouri,"Kansas City","2000 block of Benton",0,1,N/A
+"July 4, 2016","New York",Buffalo,"200 block of Dartmouth Avenue",0,1,N/A
+"July 2, 2016",Texas,Waco,"3100 block of MacArthur Drive",0,1,N/A
+"June 30, 2016",Florida,Ocala,"2432 Southwest 3rd Avenue",0,1,N/A
+"June 25, 2016",Iowa,"Des Moines","400 block of Orchard Avenue",0,1,N/A
+"June 22, 2016",Louisiana,Metairie,"900 block of Zinnia Avenue",0,1,N/A
+"June 18, 2016",Utah,Logan,N/A,0,1,N/A
+"June 16, 2016","North Carolina","Winston Salem (Winston-salem)","600 Peters Creek Parkway",0,1,N/A
+"June 16, 2016",Ohio,Columbus,"2200 block of Cleveland Avenue",0,1,N/A
+"June 14, 2016",Delaware,Felton,"Unit block of Weatherstone Lane",0,1,N/A
+"June 11, 2016",Louisiana,Shreveport,"7008 Pines Rd",0,1,N/A
+"June 9, 2016","South Dakota",Frederick,N/A,0,1,N/A
+"June 8, 2016",Florida,Apopka,"Warren Sapp Drive and Monk Avenue",0,1,N/A
+"June 7, 2016",Ohio,"Berlin Heights","7900 block of State Route 61 Ceylon Road",0,1,N/A
+"June 3, 2016",Maryland,Baltimore,"2301 Gwynns Falls Pkwy",0,1,N/A
+"June 2, 2016",Delaware,Wilmington,"700 block of S. Van Buren St",0,1,N/A
+"June 1, 2016",Florida,"Pembroke Pines","8200 block of Northwest 10th Street",0,1,N/A
+"May 29, 2016","New Jersey","Jersey City","West Side Avenue",0,1,N/A
+"May 28, 2016",Kentucky,Olmstead,"Olmstead Road",0,1,N/A
+"May 28, 2016",Ohio,Columbus,"East 21st Avenue and Lexington",0,2,N/A
+"May 27, 2016",Ohio,Columbus,"900 block of East 21st Avenue",0,2,N/A
+"May 25, 2016",Kentucky,Hickory,"1434 Hickory Rd",0,1,N/A
+"May 25, 2016",Georgia,Atlanta,"Cleveland Avenue and Old Hapeville Road",0,2,N/A
+"May 24, 2016","South Carolina",Bennettsville,"Mill Street",0,1,N/A
+"May 20, 2016",Michigan,"Sanilac (county)","200 block of Ridge Road",0,1,N/A
+"May 19, 2016",Illinois,Chicago,"1000 block of West 103rd Place",0,1,N/A
+"May 19, 2016",Michigan,"Bay City","606 North Lincoln Street",0,1,N/A
+"May 18, 2016","South Dakota","Sioux Falls","2600 block of South Duluth Avenue",0,1,N/A
+"May 14, 2016",Indiana,Sharpsville,N/A,0,1,N/A
+"May 13, 2016",Tennessee,Memphis,"900 block of North Hollywood St.",0,1,N/A
+"May 13, 2016","South Carolina",Greenville,"6630 Frontage Road",0,1,N/A
+"May 12, 2016",Tennessee,Memphis,"877 Jefferson Street",0,1,N/A
+"May 12, 2016",Ohio,"Cleveland (University Heights)","Baintree Rd",0,1,N/A
+"May 7, 2016",Mississippi,Jackson,"6100 block of Brown Street",0,1,N/A
+"May 4, 2016",Vermont,Waitsfield,"Elkhorn Road",0,1,N/A
+"May 2, 2016",Texas,Dallas,"3606 South Westmoreland Road",0,1,N/A
+"May 1, 2016",Vermont,Moretown,"River Rd",0,1,N/A
+"April 30, 2016",Tennessee,Memphis,"800 block of South Graham Street",0,1,N/A
+"April 29, 2016",Washington,Lakewood,"9330 59th Ave. SE",0,1,N/A
+"April 29, 2016","South Carolina",Bluffton,N/A,0,1,N/A
+"April 26, 2016",Ohio,Columbus,"Skywae Drive",0,1,N/A
+"April 25, 2016",Indiana,Georgetown,"6200 block of State Road 62",0,1,N/A
+"April 24, 2016",Texas,Lubbock,"1900 block of 46th Street",0,1,N/A
+"April 24, 2016",Indiana,Georgetown,"6200 block of State Road 62",0,1,N/A
+"April 23, 2016",Louisiana,"New Orleans","7600 block of Downman Road",0,1,N/A
+"April 22, 2016",Illinois,Chicago,"6900 block of South Paxton Avenue",0,1,N/A
+"April 21, 2016",Florida,"Saint Augustine (St Augustine)","22 Spring Street",0,1,N/A
+"April 20, 2016",California,"West Point","1100 block of Bald Mountain Rd",1,0,N/A
+"April 20, 2016","New Jersey",Passaic,"Gregory Avenue and Madison Street",0,1,N/A
+"April 16, 2016",Texas,Spring,"Roth Forest Lane",0,1,N/A
+"April 15, 2016",Mississippi,Jackson,"Hillside Drive",0,1,N/A
+"April 13, 2016",Kansas,Wichita,N/A,0,2,N/A
+"April 13, 2016",Texas,"Burnet (county)","1200 block of County Road 304",0,1,N/A
+"April 12, 2016",Indiana,Gary,"400 block of West 45th Avenue",0,1,N/A
+"April 11, 2016",Pennsylvania,"Harrisburg (Steelton)","1800 block of South 19th Street",0,1,N/A
+"April 10, 2016",Arkansas,"Hot Springs National Park (Hot Springs)","Hillsdale Terrace",0,1,N/A
+"April 10, 2016",Colorado,"Weld (county)","29000 block of Weld County Road 20",0,1,N/A
+"April 10, 2016",California,"San Diego","5700 block of Elk Street",0,2,N/A
+"April 9, 2016",Massachusetts,Boston,"Fernboro Street",0,1,N/A
+"April 9, 2016",Indiana,Gary,"500 block of Madison Street",0,1,N/A
+"April 7, 2016",Massachusetts,Springfield,"212 Plainfield Street",1,0,N/A
+"April 5, 2016",California,Fresno,"Grant Avenue",0,1,N/A
+"April 1, 2016","North Carolina",Raleigh,"3700 block of Macinac Island lane",0,1,N/A
+"March 30, 2016",Florida,"Port Saint Lucie","200 block of SE Sims Cir",0,1,N/A
+"March 28, 2016",Tennessee,Memphis,"Golden Park and Sandy Park",0,1,N/A
+"March 28, 2016","North Carolina","Rocky Mount","800 block of Nashville Road",0,1,N/A
+"March 24, 2016",Georgia,Macon,"1300 block of Courtland Avenue",0,1,N/A
+"March 22, 2016",Wisconsin,"River Falls","600 block of Foster Street",0,1,N/A
+"March 22, 2016",Ohio,Toledo,"511 N. Miller St.",0,1,N/A
+"March 20, 2016",Kentucky,"Cub Run",N/A,0,1,N/A
+"March 19, 2016",Tennessee,Nashville,"1500 block of Charlotte Avenue",0,1,N/A
+"March 19, 2016",Delaware,Wilmington,"300 block of New Castle Ave",0,1,N/A
+"March 19, 2016",Texas,Levelland,"1400 block of 12th Street",0,1,N/A
+"March 18, 2016",Georgia,Savannah,"200 block of Avery Street",0,1,N/A
+"March 16, 2016",Virginia,Annandale,"7800 block of Thor Drive",0,1,N/A
+"March 16, 2016",Illinois,"East Moline","400 block of 14th Street",0,1,N/A
+"March 16, 2016",Illinois,Chicago,"West 92nd and South Throop streets",0,1,N/A
+"March 16, 2016",Georgia,Savannah,"2100 block of Florida Avenue",0,1,N/A
+"March 14, 2016",Tennessee,Chattanooga,"1504 S Beech St",0,1,N/A
+"March 14, 2016",Maine,Calais,"South Street",0,1,N/A
+"March 13, 2016",Virginia,Martinsville,"400 block of Clearview Drive",0,1,N/A
+"March 12, 2016",Florida,"Fort Mc Coy (Fort McCoy)","1501 NE 231 Avenue",0,6,N/A
+"March 12, 2016",Pennsylvania,Dushore,"Broschart Rd",0,1,N/A
+"March 10, 2016",Illinois,Chicago,"9000 block of South Bishop Street",0,1,N/A
+"March 8, 2016",Florida,Largo,"900 block of Starkey Road",0,1,N/A
+"March 3, 2016",Kentucky,"Hickory (Viola)","Kentucky 408 East",0,1,N/A
+"March 3, 2016",Illinois,Winchester,"East Lewis St",0,1,N/A
+"February 29, 2016",Florida,Palatka,"200 block of Benham Street",0,1,N/A
+"February 27, 2016",Arizona,Avondale,"12200 block of West Mohave Street",0,2,N/A
+"February 27, 2016","North Carolina",Charlotte,"Toddville Road",0,1,N/A
+"February 25, 2016",Ohio,Cleveland,"9300 block of Kinsman Road",0,1,N/A
+"February 24, 2016",Nebraska,Omaha,"12339 Cuming",0,1,N/A
+"February 23, 2016",Missouri,"Saint Louis","900 block of Cass Avenue",0,1,N/A
+"February 21, 2016",Idaho,Rupert,"624 F Street",0,1,N/A
+"February 21, 2016",Arizona,Phoenix,"1700 block of West Tonto Street",0,1,N/A
+"February 21, 2016","New York",Geneva,"County Road 6 and Armstrong Road",0,1,N/A
+"February 18, 2016",Arizona,Phoenix,"51st Avenue and Thomas Road",0,1,N/A
+"February 17, 2016",Massachusetts,Fitchburg,"31 Beech Street",0,1,N/A
+"February 12, 2016",Indiana,Evansville,"S. Fares Ave.",0,1,N/A
+"February 9, 2016",Texas,"San Antonio","3300 block of Rock Creek Run",0,1,N/A
+"February 7, 2016",Ohio,Dayton,"1200 block of Rosedale Drive",0,1,N/A
+"February 7, 2016",Florida,"Naples (Golden Gate)","2100 block of 47th Avenue Northeast",0,1,N/A
+"February 6, 2016",Louisiana,"New Orleans","2400 block of Mardi Gras Boulevard",0,1,N/A
+"February 6, 2016","North Carolina",Franklin,"Rosemont Drive",0,1,N/A
+"February 4, 2016",Kansas,Abilene,"N.W. 2nd and Cedar Street",0,1,N/A
+"February 4, 2016",Tennessee,Memphis,"3500 block of Metropolitan Lane",0,1,N/A
+"January 30, 2016",Illinois,"Chicago (Englewood)","7200 block of South Paulina Street",0,1,N/A
+"January 29, 2016",Georgia,Oakwood,"Candler Highway and Tanners Mill Road",0,1,N/A
+"January 28, 2016",Florida,Holiday,"3300 block of Garfield Drive",0,1,N/A
+"January 27, 2016",Alabama,"Bay Minette",N/A,0,1,N/A
+"January 24, 2016",Virginia,"Halifax (county)","Hudson Road",0,1,N/A
+"January 21, 2016",Colorado,Pueblo,"200 block of Bonnymede Road",0,1,N/A
+"January 21, 2016",Alaska,Wasilla,"Mutiny Circle",0,1,N/A
+"January 20, 2016",Georgia,Gainesville,"White Sulphur Road",0,1,N/A
+"January 18, 2016",Louisiana,Chalmette,"2317 Pecan Drive",0,1,N/A
+"January 18, 2016",Arizona,Tempe,"Broadway Road and Priest Drive",0,1,N/A
+"January 17, 2016",Georgia,Maysville,N/A,0,1,N/A
+"January 17, 2016",Illinois,Chicago,"8300 block of South Cottage Grove",0,1,N/A
+"January 16, 2016",Texas,"Elm Mott","3600 block of Beheler Road",0,1,N/A
+"January 16, 2016",Illinois,Chicago,"5500 block of West Adams Street",0,1,N/A
+"January 16, 2016","North Carolina","Winston Salem","3900 Thornaby Lane",0,1,N/A
+"January 16, 2016",Georgia,Augusta,"2800 block of Washington Road",0,1,N/A
+"January 15, 2016",Florida,Jacksonville,"Philips Highway and Baymeadows Road",0,1,N/A
+"January 14, 2016",Florida,Bradenton,"3800 block of 10th Street Court East",0,1,N/A
+"January 13, 2016",Arkansas,Camden,"401 Ouachita 88",0,1,N/A
+"January 13, 2016",Mississippi,"Port Gibson","Brady Avenue",0,1,N/A
+"January 11, 2016",Florida,Jacksonville,"8300 block of Baymeadows Road",0,1,N/A
+"January 7, 2016",Michigan,Jackson,"Homewild Avenue",0,1,N/A
+"January 4, 2016",Tennessee,Memphis,"1400 block of Briercrest Lane",2,1,N/A
+"January 3, 2016",Tennessee,Memphis,"300 block of Gaston Avenue",0,1,N/A
+"January 3, 2016",Tennessee,Knoxville,"400 block of South Hembree Street",0,1,N/A
+"January 2, 2016",Alabama,Mobile,"3577 Dauphin Island Parkway",1,0,N/A
+"January 2, 2016","New Jersey",Paterson,"Bergen Street",0,1,N/A
+"January 1, 2016",Nevada,"Las Vegas","2000 block of Raspberry Hill Road",0,1,N/A
+"December 31, 2015",Ohio,Akron,"800 block of East Crosier Street",0,1,N/A
+"December 28, 2015",California,"Rancho Cucamonga","7429 Arbor Lane",0,1,N/A
+"December 27, 2015",California,"Crows Landing","Marshall Road",0,1,N/A
+"December 26, 2015",Indiana,"La Porte","5344 South Hupp Road",0,1,N/A
+"December 23, 2015",Louisiana,"Baton Rouge","Jefferson Avenue",0,1,N/A
+"December 23, 2015",California,Poway,"13550 Danielson St.",0,1,N/A
+"December 22, 2015",Georgia,Augusta,"700 block of East Chapman Street",0,1,N/A
+"December 22, 2015",Kansas,Manhattan,"200 block of East Park Road",0,1,N/A
+"December 20, 2015",Indiana,"South Bend (Roseland)","215 S Dixie Way",0,1,N/A
+"December 20, 2015",Missouri,Gainesville,"MO Highway 5",0,1,N/A
+"December 19, 2015",Georgia,"Atlanta (College Park)","1700 block of Hilltop Way",0,1,N/A
+"December 17, 2015","West Virginia",Huntington,"5300 block of Longwood Road",0,1,N/A
+"December 14, 2015",Texas,Gainesville,"900 block of East Scott Street",0,1,N/A
+"December 10, 2015",Texas,Houston,"5300 block of West Gulf Bank",0,1,N/A
+"December 10, 2015",Texas,"San Antonio","8300 block of Shoal Creek",0,1,N/A
+"December 8, 2015",Massachusetts,"Lanesboro (Hancock)",N/A,0,1,N/A
+"December 8, 2015",Alabama,Huntsville,"Alaska Avenue",0,1,N/A
+"December 7, 2015",Illinois,Chicago,"5100 block of South Emerald Avenue",0,1,N/A
+"December 5, 2015",California,Stockton,N/A,0,1,N/A
+"December 2, 2015",Ohio,Lowell,"Highland Ridge and OH 530",0,1,N/A
+"December 2, 2015",Michigan,Dowagiac,"126 Front Street",0,1,N/A
+"November 29, 2015",Washington,Everett,"12400 block of Admiralty Way",0,1,N/A
+"November 29, 2015",Michigan,Detroit,"5900 block of Yorkshire",0,1,N/A
+"November 29, 2015",Wisconsin,"West Sweden",N/A,0,1,N/A
+"November 28, 2015",Georgia,Bogart,"Rocky Branch Rd",0,1,N/A
+"November 28, 2015",Arizona,"Casa Grande","9000 South Isom Road",0,1,N/A
+"November 28, 2015",California,Fresno,"California and Maple avenues",0,1,N/A
+"November 26, 2015",Indiana,Evansville,"6625 E Lloyd Expy",0,1,N/A
+"November 26, 2015",Virginia,Elliston,"5100 block of Duke Lane",0,1,N/A
+"November 26, 2015",Indiana,Indianapolis,N/A,0,1,N/A
+"November 25, 2015",Connecticut,Colchester,"Middletown and Bigelow Road",0,1,N/A
+"November 25, 2015",Pennsylvania,Uniontown,"114 Pershing Court",0,1,N/A
+"November 24, 2015",Ohio,Toledo,"100 block of East Carleton",0,2,N/A
+"November 24, 2015",Louisiana,"Baton Rouge","5000 block of Florida Street",0,1,N/A
+"November 23, 2015",Ohio,Marion,"378 Nunin Court",0,1,N/A
+"November 22, 2015",Wisconsin,"Stratford (Emmet)","4900 block of Highway 153",0,1,N/A
+"November 21, 2015",Wisconsin,"Rock (county)",N/A,0,1,N/A
+"November 21, 2015","New York",Cassadaga,"Meadows Rd",0,1,N/A
+"November 21, 2015",Tennessee,Dunlap,"Blue Sewanee Rd",0,1,N/A
+"November 21, 2015",Texas,"Humble (Atascocita)","18000 block of Yaupon Tr",1,0,N/A
+"November 21, 2015",Georgia,Jefferson,N/A,0,1,N/A
+"November 17, 2015",Indiana,Portland,"1600 block of N 600 E",0,1,N/A
+"November 17, 2015",Illinois,Chicago,"8600 block of South Aberdeen Avenue",0,1,N/A
+"November 15, 2015",Oklahoma,Jay,"E 310 Rd and S 685 Rd",0,1,N/A
+"November 14, 2015",Oregon,Lebanon,"500 block N. Santiam Highway",0,1,N/A
+"November 12, 2015",Alabama,Birmingham,"600 block of Cambridge Street",0,1,N/A
+"November 12, 2015",Texas,Midland,"Neely Avenue",0,1,N/A
+"November 11, 2015",Texas,Killeen,"619 BIshop Drive",0,1,N/A
+"November 10, 2015",Connecticut,Windham,"64 Windham Center Road",0,1,N/A
+"November 8, 2015","New York",Middleport,"9400 block of Townline Rd",0,1,N/A
+"November 7, 2015",Oklahoma,Woodward,N/A,0,1,N/A
+"November 1, 2015",Ohio,Dayton,"811 Oldfield Pl",0,1,N/A
+"October 31, 2015","North Carolina",Zionville,"700 block of Camp Joy Road",0,1,N/A
+"October 31, 2015",Tennessee,Memphis,"1600 block of East Holmes Road",0,2,N/A
+"October 30, 2015",Texas,"Port Arthur","3280 Central Mall Blvd.",0,1,N/A
+"October 30, 2015","New York","Staten Island","67 Covington Circle",0,1,N/A
+"October 25, 2015",Mississippi,Vancleave,"2501 Carter Homestead Rd.",0,1,N/A
+"October 25, 2015",Arizona,Tonopah,"299th Avenue and Roosevelt",0,1,N/A
+"October 25, 2015",Florida,Orlando,"4614 Alrix Drive",0,2,N/A
+"October 25, 2015",Tennessee,Harrison,"6800 block of Buck Trail Dr",0,1,N/A
+"October 25, 2015",Tennessee,Harrison,"Buck Trail Drive",0,1,N/A
+"October 24, 2015",Kentucky,Hopkinsville,"Bethel Street",0,1,N/A
+"October 20, 2015",Washington,"Lakewood (Joint Base Lewis Mcchord)","150th St. SW and Woodbrook Dr. S.",1,0,N/A
+"October 19, 2015",Florida,Tallahassee,"Miccosukee and Magnolia",0,1,N/A
+"October 17, 2015",Louisiana,"La Place (Laplace)","8800 block of Houma Dr",0,1,N/A
+"October 17, 2015","South Dakota",Letcher,N/A,0,1,N/A
+"October 10, 2015",Alabama,Tuscaloosa,"13000 block of North Rosser Road",0,1,N/A
+"October 7, 2015",California,Antioch,N/A,0,1,N/A
+"October 6, 2015",Ohio,Toledo,"1200 block of Buckingham Street",0,1,N/A
+"October 2, 2015",Oklahoma,"Oklahoma City","S.E. 80th and Sooner Rd.",0,1,N/A
+"October 2, 2015",Ohio,Cleveland,"East 102nd Street and St. Clair Avenue",0,1,N/A
+"October 2, 2015",Alabama,"Birmingham (Hoover)","2250 Little Valley Rd",0,1,N/A
+"October 1, 2015",Kentucky,Elkton,"303 West Shelby Street",0,1,N/A
+"September 28, 2015",Texas,"Corpus Christi","3300 block of South Alameda Street",0,1,N/A
+"September 27, 2015",Texas,Pollok,N/A,0,1,N/A
+"September 24, 2015",Ohio,Cleveland,"East 70th Street and Wade Park Avenue",0,1,N/A
+"September 22, 2015",Georgia,Macon,N/A,0,1,N/A
+"September 21, 2015",Alabama,Birmingham,"Sundale Drive",0,1,N/A
+"September 20, 2015",Ohio,Dayton,"Coulson Drive",0,1,N/A
+"September 20, 2015",Utah,Ogden,"100 North block of Pingree Ave",0,1,N/A
+"September 18, 2015",Indiana,Muncie,"700 block of South Elm Street",0,1,N/A
+"September 17, 2015",Ohio,Kidron,N/A,0,1,N/A
+"September 17, 2015",Ohio,Kidron,N/A,0,1,N/A
+"September 14, 2015",Oklahoma,Tulsa,"7300 block of East Jasper Street",0,1,N/A
+"September 14, 2015",Michigan,"Romeo (Bruce Township)",N/A,0,1,N/A
+"September 13, 2015",Indiana,Richmond,"300 block of South Seventh Street",0,1,N/A
+"September 13, 2015",Texas,Rockwall,"2700 block of Faircrest Drive",0,1,N/A
+"September 12, 2015",Ohio,"Clark (county)","3300 block of Laura Lane",0,1,N/A
+"September 11, 2015","New York","Arverne (Queens)","22-04 Collier Avenue",1,0,N/A
+"September 8, 2015",Illinois,Peoria,"2100 block of West Starr Street",1,0,N/A
+"September 6, 2015",Iowa,"Allamakee (county)","Hickory Creek Road",0,1,N/A
+"September 6, 2015",Florida,"Fort Myers","100 block of Lucille Avenue",0,1,N/A
+"September 6, 2015",Louisiana,Lafayette,"2401 N.W. Evangeline Thwy",0,1,N/A
+"September 5, 2015",Pennsylvania,Harrisburg,"Verbeke Street",0,1,N/A
+"September 1, 2015",Florida,"Orlando (Pine Hills)",N/A,0,1,N/A
+"August 29, 2015",Ohio,Bellefontaine,"804 West Patterson Avenue",0,1,N/A
+"August 24, 2015",Ohio,"Cincinnati (North College Hill)","1900 block of Goodman Avenue",0,1,N/A
+"August 22, 2015","New Jersey","Mount Laurel","3300 block of Marne Highway",0,1,N/A
+"August 22, 2015",Alaska,Anchorage,"2500 block of Kona Lane",0,1,N/A
+"August 21, 2015",Idaho,"Mountain Home",N/A,0,1,N/A
+"August 21, 2015",Indiana,Brooklyn,N/A,0,1,N/A
+"August 19, 2015",California,"Garden Grove","14000 block of Hope Street",0,1,N/A
+"August 19, 2015",Pennsylvania,Pittsburgh,"2600 block of Perrysville Avenue",0,1,N/A
+"August 18, 2015",Texas,"San Angelo","1802 Beacon Street",0,1,N/A
+"August 14, 2015",Indiana,Peru,"901 Apache Drive",0,1,N/A
+"August 14, 2015",Tennessee,Greeneville,"2733 Poplar Springs Road",0,1,N/A
+"August 13, 2015",Alaska,"Delta Junction",N/A,0,1,N/A
+"August 12, 2015",Kansas,Wichita,"2000 block of West Rita",0,1,N/A
+"August 8, 2015",Florida,"Boca Raton","3100 Airport Road",0,1,N/A
+"August 4, 2015","West Virginia","Charleston (Cross Lanes)","100 Drexel Place",0,1,N/A
+"August 4, 2015",Illinois,Chicago,"6700 block of South Western Avenue",0,1,N/A
+"August 4, 2015",Missouri,"Park Hills","6100 block of Glore Road",0,1,N/A
+"August 4, 2015",Tennessee,Chattanooga,"Hughes Avenue",0,1,N/A
+"August 3, 2015","New Jersey",Millville,"700 block of Mulberry Street",0,1,N/A
+"August 2, 2015",Florida,"Fort Lauderdale (Davie)","7791 N.W. 34th St",0,1,N/A
+"July 31, 2015",Tennessee,Nashville,"Hampton Street",0,1,N/A
+"July 30, 2015",Alabama,Birmingham,"5000 block of Avenue N",0,1,N/A
+"July 30, 2015",Arkansas,"White (county)","N. Vinity Road",0,1,N/A
+"July 29, 2015","South Carolina",Duncan,"Sunny Ray Drive",0,1,N/A
+"July 27, 2015",Louisiana,"New Orleans","7500 block of Benson Street",0,1,N/A
+"July 25, 2015",Ohio,"Gallia (county)","Clay Lick Road",0,1,N/A
+"July 24, 2015",Kansas,Wichita,"700 block of South Hunter",0,1,N/A
+"July 24, 2015",Tennessee,Tullahoma,"Avondale Drive",0,1,N/A
+"July 23, 2015",Wisconsin,Madison,"300 block of Wyalusing Drive",0,1,N/A
+"July 23, 2015",Texas,Weslaco,"6th Street and Louisiana",0,1,N/A
+"July 23, 2015",Ohio,"Pike (county)","2733 SR 41",0,1,N/A
+"July 22, 2015",Kansas,Olathe,"600 block of East Welston Avenue",0,1,N/A
+"July 18, 2015",Ohio,Columbus,"Robinwood Park",0,1,N/A
+"July 15, 2015",Ohio,"Dayton (Trotwood)",N/A,0,1,N/A
+"July 15, 2015",Illinois,Aurora,N/A,0,2,N/A
+"July 9, 2015",Colorado,Aurora,"1000 block of North Vaughn Street",0,1,N/A
+"July 5, 2015",Ohio,Cincinnati,"Virgil Road",0,1,N/A
+"July 2, 2015",Texas,Dallas,"Coit Road",0,1,N/A
+"July 1, 2015",Kentucky,Lexington,"South Broadway and Cedar Street",0,1,N/A
+"June 28, 2015","New Mexico",Roswell,"1901 S Sunset Avenue",0,1,N/A
+"June 26, 2015",Illinois,Joliet,"400 block of Mississippi Avenue",0,1,N/A
+"June 26, 2015",California,Fresno,"Fresno Street and McKinley Avenue",0,1,N/A
+"June 24, 2015",Arkansas,"Little Rock","Fulton St",0,1,N/A
+"June 21, 2015",Michigan,Pontiac,"Barkell Street and Tennyson",0,1,N/A
+"June 21, 2015",Georgia,Lagrange,"400 block of Revis Street",0,1,N/A
+"June 17, 2015","New York","Staten Island","Bay and Sands Street",0,1,N/A
+"June 17, 2015",Pennsylvania,Pittsburgh,"300-block of Jacunda Street",0,1,N/A
+"June 16, 2015",Florida,"Lake Worth","Mee Court",0,1,N/A
+"June 12, 2015",Nevada,"Las Vegas","Lamb Boulevard and Vegas Valley Drive",0,1,N/A
+"June 10, 2015",Wisconsin,Hatley,"Esker Road",0,1,N/A
+"June 7, 2015",Ohio,Lebanon,"Wilmington Road",0,1,N/A
+"June 7, 2015",Oregon,Portland,"9100 Southeast Powell Boulevard",0,1,N/A
+"June 4, 2015",Washington,"Tacoma (Parkland)","400 block of 111th Street Court East",0,1,N/A
+"June 2, 2015","New York","Staten Island","225 Park Hill Avenue",0,1,N/A
+"May 30, 2015",Tennessee,Memphis,"8100 block of Waterford Circle",0,1,N/A
+"May 28, 2015",California,Vacaville,"200 block of Cedar Street",0,1,N/A
+"May 27, 2015","North Carolina",Kinston,N/A,0,2,N/A
+"May 26, 2015",Louisiana,"Baton Rouge",N/A,0,1,N/A
+"May 25, 2015","South Carolina","Rock Hill","Crawford Road",0,1,N/A
+"May 21, 2015",Kansas,"Sedgwick (county)","11100 block of West 95th Street South",0,1,N/A
+"May 17, 2015","North Carolina",Stokes,"Highway 30",0,1,N/A
+"May 15, 2015",Tennessee,Centerville,"3800 block of Swan Creek Road",0,1,N/A
+"May 15, 2015",Louisiana,"Baton Rouge","Rose Garden Drive",0,1,N/A
+"May 12, 2015",Illinois,Chicago,"8800 block of South Saginaw",0,1,N/A
+"May 5, 2015",Utah,"West Valley City","3200 South and 5100 West",0,1,N/A
+"May 4, 2015",California,Gilroy,"500 block of El Cerrito Way",0,1,N/A
+"May 2, 2015",Pennsylvania,"Upper Darby","7000 block of Ruskin Lane",0,1,N/A
+"May 2, 2015",California,"Marysville (Linda)","1900 block of Fernwood Drive",0,2,N/A
+"April 26, 2015",Georgia,Columbus,"7000 block of Doris Drive",0,1,N/A
+"April 21, 2015","New York",Yonkers,"82 Chester Place",0,1,N/A
+"April 19, 2015",Texas,Katy,"24918 Falcon Hollow Ln",0,1,N/A
+"April 18, 2015",Virginia,"Spotsylvania  Courthouse",N/A,0,1,N/A
+"April 17, 2015",Louisiana,Mandeville,"100 block of Carroll Street",0,1,N/A
+"April 15, 2015",Illinois,Chicago,"1600 block of North Austin Boulevard",0,1,N/A
+"April 13, 2015",Michigan,Pennfield,"100 block of Clarence Boulevard",0,1,N/A
+"April 4, 2015","New York",Brooklyn,"Sterling Place",0,1,N/A
+"March 28, 2015",Illinois,Champaign,"1700 block of Clover Lane",0,1,N/A
+"March 27, 2015",Georgia,Atlanta,"600 block of McAfee Street",0,1,N/A
+"March 26, 2015",Arizona,Phoenix,"44th Street and Southern Avenue",0,1,N/A
+"March 25, 2015",Michigan,Southfield,"23000 block of Lake Ravines Drive",0,1,N/A
+"March 24, 2015",Virginia,Richmond,"3100 block of Enslow Avenue",0,1,N/A
+"March 23, 2015",Illinois,Chicago,"5800 block of South King Drive",0,1,N/A
+"March 21, 2015","New Hampshire",Manchester,"91 West Street",0,1,N/A
+"March 21, 2015",Pennsylvania,Philadelphia,"6000 block of Charles Street",0,1,N/A
+"March 20, 2015","New York",Brooklyn,"71st Street",0,1,N/A
+"March 20, 2015",Alaska,Anchorage,"1300 block of Chirikof Court",0,1,N/A
+"March 19, 2015",Virginia,Petersburg,N/A,0,1,N/A
+"March 15, 2015","New Jersey",Camden,"3000 block of Lemuel Avenue",0,1,N/A
+"March 9, 2015",Minnesota,"Minneapolis (Coon Rapids)","11291 Robinson Drive NW",1,1,N/A
+"March 7, 2015",Oklahoma,Tulsa,"East Admiral Place and South 119th East Avenue",0,1,N/A
+"March 6, 2015",California,"Tulare County","Road 148 and Avenue 208",0,1,N/A
+"March 5, 2015",Ohio,"Canal Winchester","5600 block of Gatling Drive",0,1,N/A
+"March 5, 2015",Texas,"Fort Worth","2300 block of Northeast 37th St.",0,1,N/A
+"March 5, 2015",California,Poplar,"Avenue 208 and Road 148",0,1,N/A
+"March 2, 2015",Indiana,"Delaware County","500 block of N. Northwood Drive",0,1,N/A
+"March 1, 2015",Illinois,Chicago,"5200 block of W. Fullerton Avenue",0,1,N/A
+"February 27, 2015",Georgia,Columbus,"501 29th Street",0,1,N/A
+"February 23, 2015",Florida,Jacksonville,"1605 N. Myrtle Avenue",0,1,N/A
+"February 21, 2015",Utah,"Warner Valley",N/A,0,1,N/A
+"February 17, 2015",Arizona,Phoenix,"43rd Avenue and Thomas",0,1,N/A
+"February 17, 2015",Alabama,Piedmont,"Foskett Street",0,1,N/A
+"February 16, 2015",Missouri,"Platte City","12000 block of Farmers Lane",0,1,N/A
+"February 16, 2015",Indiana,Wakarusa,"28000 block of County Road 42",0,1,N/A
+"February 14, 2015",California,Covina,"500 block of Rimsdale Avenue",0,1,N/A
+"February 9, 2015",Maryland,Randallstown,"9600 block of Southall Road",0,1,N/A
+"February 7, 2015",Texas,"San Antonio","5800 block of Midcrown Drive",0,1,N/A
+"February 4, 2015","North Carolina",Leland,"Basin Street",0,1,N/A
+"January 30, 2015",Illinois,Marengo,"400 block of Hale Street",0,1,N/A
+"January 30, 2015",Louisiana,"New Roads","Carver Street",0,1,N/A
+"January 28, 2015",Florida,Miami,"100 block of Northwest 77th Street",0,1,N/A
+"January 28, 2015",Ohio,Cincinnati,"3300 block of Reading Road",0,1,N/A
+"January 23, 2015",Florida,Naples,"300 block of 11th Street Southwest",0,1,N/A
+"January 22, 2015",Nebraska,"Buffalo County","85th Road",0,1,N/A
+"January 18, 2015",Kansas,Delia,"North of 118th and B Road",0,1,N/A
+"January 18, 2015",California,Fresno,"Woodrow and Woodward Avenues",0,1,N/A
+"January 17, 2015",Georgia,Carlton,N/A,0,1,N/A
+"January 8, 2015",Virginia,Danville,"100 block of Swanson Street",0,1,N/A
+"January 7, 2015",Texas,"Medina County","County Road 3823",0,1,N/A
+"January 7, 2015",Louisiana,Shreveport,"3500 block of Sumner Street",0,1,N/A
+"January 5, 2015",Alaska,Fairbanks,"1919 Lathrop Street Suite 123",0,2,N/A
+"January 3, 2015",Virginia,Hiltons,"4155 AP Carter Highway",0,1,N/A
+"January 2, 2015",Oregon,Prineville,"Northeast Seventh Street",0,1,N/A
+"January 2, 2015",Connecticut,Plainfield,"40 Palmer Lane",0,1,N/A
+"December 31, 2014",Texas,Navasota,N/A,0,1,N/A
+"December 30, 2014",Texas,Dayton,"FM 1409 and County Road 460",0,1,N/A
+"December 30, 2014",Ohio,Sharonville,"2300 East Kemper Road",0,2,N/A
+"December 26, 2014",Wisconsin,Madison,"914 W. Badger Road",0,1,N/A
+"December 26, 2014","West Virginia",Cameron,"North Avenue",1,1,N/A
+"December 25, 2014",Michigan,Detroit,"4100 block of Virginia Park",1,0,N/A
+"December 23, 2014",Tennessee,Memphis,"Elvis Presley Boulevard and Ledger Road",0,1,N/A
+"December 20, 2014","North Carolina","White Oak","Chatham Road",0,1,N/A
+"December 20, 2014",Mississippi,Meridian,N/A,0,1,N/A
+"December 16, 2014",Washington,Snohomish,"12400 block of Admiralty Way",0,1,N/A
+"December 14, 2014",Alabama,"Smiths Station",N/A,0,1,N/A
+"December 6, 2014",Florida,Jacksonville,N/A,0,1,N/A
+"December 6, 2014",Florida,"Mary Esther",N/A,0,1,N/A
+"December 6, 2014","South Dakota","Sioux Falls","5521 E. Arrowhead Parkway",0,1,N/A
+"December 2, 2014",Arkansas,Widener,N/A,0,1,N/A
+"November 30, 2014",Texas,Houston,"4702 West Magnum Rd.",0,1,N/A
+"November 29, 2014",Texas,Houston,"4700 block of West Mangum Road",0,1,N/A
+"November 29, 2014",Illinois,Chicago,"1600 block of North Monticello Avenue ",0,1,N/A
+"November 29, 2014",Wisconsin,"Manitowoc County",N/A,0,1,N/A
+"November 24, 2014",Florida,"Indian River County","7900 block of 37th Street",0,1,N/A
+"November 23, 2014",Delaware,Wilmington,"West 28th Street",0,1,N/A
+"November 16, 2014",Kentucky,Lexington,"500 block of Judy Lane",0,1,N/A
+"November 16, 2014",Maine,Oxford,"Gladys Lane",0,1,N/A
+"November 15, 2014",Oklahoma,Velma,N/A,0,1,N/A
+"November 9, 2014",Florida,"Miami Gardens","2100 block of NW 22 Avenue",0,1,N/A
+"November 9, 2014",Ohio,Cleveland,"13301 Eaglesmere Ave",0,1,N/A
+"November 8, 2014",Maryland,Keedysville,"Dogstreet Road",0,1,N/A
+"November 2, 2014",Kansas,"Clay County",N/A,0,1,N/A
+"November 1, 2014",Iowa,"Dallas Center",N/A,0,1,N/A
+"October 30, 2014",California,"Desert Hot Springs","Estrella Avenue ",0,2,N/A
+"October 27, 2014",Pennsylvania,Tyrone,N/A,0,1,N/A
+"October 26, 2014",Montana,Butte,"Telegraph Gulch Road",0,1,N/A
+"October 26, 2014",Illinois,Chicago,"3200 block of South Kedvale",0,1,N/A
+"October 25, 2014","North Dakota",Cayuga,N/A,0,1,N/A
+"October 24, 2014","New York",Ledyard,"1320 Levanna Road",0,1,N/A
+"October 23, 2014","North Carolina",Hendersonville,"308 Resort Street",0,1,N/A
+"October 22, 2014","New Jersey",Newark,"100 block of Hillside Avenue",0,2,N/A
+"October 21, 2014",Tennessee,Memphis,"1900 East Raines Road",0,1,N/A
+"October 18, 2014",Florida,"Fort Myers","1600 block of Meadowview Circle",0,1,N/A
+"October 16, 2014","North Carolina",Margarettsville,"Mount Carmel Road",0,1,N/A
+"October 13, 2014",Florida,Orlando,"2700 block of Castle Oak Avenue",0,1,N/A
+"October 11, 2014",Michigan,Lansing,N/A,0,1,N/A
+"October 10, 2014",Florida,Ocala,N/A,0,2,N/A
+"October 9, 2014","South Carolina",Greenville,"515 Webster Road",0,1,N/A
+"October 8, 2014","South Carolina",Blenheim,"Stoneaway Lane",0,2,N/A
+"October 6, 2014",Illinois,Chicago,"4600 block of South Drexel Avenue",0,0,N/A
+"October 5, 2014",Washington,Spokane,"1700 block of E. Vanetta",0,1,N/A
+"September 30, 2014",Ohio,Vandalia,"Dog Leg Road",0,2,N/A
+"September 26, 2014",Ohio,Columbus,"2400 block of Plum Street",0,2,N/A
+"September 24, 2014",Alabama,Tuscaloosa,"500 block of 34th Avenue",0,1,N/A
+"September 20, 2014",Delaware,Wilmington,"Second and West Streets",0,1,N/A
+"September 18, 2014",Illinois,Chicago,"1300 block of North Cleveland Avenue",1,1,N/A
+"September 17, 2014",Alaska,"Delta Junction",N/A,0,1,N/A
+"September 17, 2014",Alabama,Birmingham,"2700 block of 35th Avenue North",0,3,N/A
+"September 15, 2014",Pennsylvania,Philadelphia,"Marvine Street and W. Venango Street near 11th Street",0,1,N/A
+"September 15, 2014",Pennsylvania,Philadelphia,"3600 block of North Marvine St",0,1,N/A
+"September 12, 2014",Arkansas,"Siloam Springs","S Seward St.",0,1,N/A
+"September 10, 2014",Indiana,Muncie,"300 block of East Ninth Street",0,1,N/A
+"September 10, 2014",Georgia,Savannah,"100 block of Chippewa Drive",0,1,N/A
+"September 5, 2014","New Jersey",Newark,"Ridgewood and Clinton avenues",0,1,N/A
+"September 5, 2014",Maryland,"Bel Air","Colonial Court",0,1,N/A
+"September 1, 2014",Indiana,Gary,"2100 block of Polk Street",0,1,N/A
+"September 1, 2014",Mississippi,Meridian,"2428 Old Marion Rd",0,1,N/A
+"August 29, 2014",Michigan,Muskegon,"80 W Southern Ave",0,1,N/A
+"August 24, 2014",California,Sacramento,N/A,0,1,N/A
+"August 21, 2014",Texas,"Pipe Creek","Mountain View Lane",0,1,N/A
+"August 21, 2014",Washington,Longview,"26th Avenue ",0,1,N/A
+"August 14, 2014",Washington,Longview,"200 block of 26th Avenue",0,1,N/A
+"August 13, 2014",Kansas,Pratt,"Lemon Park",0,1,N/A
+"August 13, 2014",Mississippi,"Tippah County",N/A,0,1,N/A
+"August 12, 2014",Virginia,Winchester,"400 block of Lily's Way",0,1,N/A
+"August 11, 2014",Ohio,Cincinnati,"1200 block of Fairbanks Avenue",0,1,N/A
+"August 10, 2014",Texas,Conroe,"1100 South Seventh",0,1,N/A
+"August 8, 2014",Louisiana,Shreveport,"2900 block of Hattie Street",0,1,N/A
