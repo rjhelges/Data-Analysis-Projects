@@ -20,4 +20,9 @@ Personal analysis and visualization into gun violence
   More advanced data visualization
     
     Jupyter notebook - Basics
+    
+## Guided Project_ Analyzing NYC High School Data:
+  Data cleaning and merging from multiple files/sources with analyis
+  
+    Jupyter notebook - Basics
 
