@@ -22,7 +22,11 @@ Personal analysis and visualization into gun violence
     Jupyter notebook - Basics.ipynb
     
 ## Guided Project_ Analyzing NYC High School Data:
-  Data cleaning and merging from multiple files/sources with analyis
+  Data cleaning and merging from multiple files/sources with analysis
   
     Jupyter notebook - Schools.ipynb
 
+## Guided Project_ Star Wars Survey:
+  Clean survey data and perform analysis
+  
+    Jupyter notebook - Basics.ipynb
