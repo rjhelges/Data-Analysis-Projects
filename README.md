@@ -30,3 +30,8 @@ Personal analysis and visualization into gun violence
   Clean survey data and perform analysis
   
     Jupyter notebook - Basics.ipynb
+    
+## Guided Project_ Analyzing CIA Factbook Data Using SQLite and Python
+  Intro to using data analyis from a database using python and SQLite
+
+  	Jupyter notebook - Basics.ipynb
