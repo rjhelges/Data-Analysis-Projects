@@ -35,3 +35,8 @@ Personal analysis and visualization into gun violence
   Intro to using data analyis from a database using python and SQLite
 
   	Jupyter notebook - Basics.ipynb
+
+## Guided Project_ Analyzing Movie Reviews
+  Intro to statistics in Python
+
+    Jupyter notebook - Basics.ipynb
