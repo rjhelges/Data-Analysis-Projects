@@ -40,3 +40,8 @@ Personal analysis and visualization into gun violence
   Intro to statistics in Python
 
     Jupyter notebook - Basics.ipynb
+
+## Guided Project_ Predicting Car Prices
+  Intro to Machine Learning with K-Nearest Neighbor
+
+  	Jupyter notebook - Basics.ipynb
