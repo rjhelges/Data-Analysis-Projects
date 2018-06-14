@@ -45,3 +45,13 @@ Personal analysis and visualization into gun violence
   Intro to Machine Learning with K-Nearest Neighbor
 
   	Jupyter notebook - Basics.ipynb
+
+## Guided Project_ Predicting House Sales
+  Intro to Machine Learning with Linear Regression
+
+    Jupyter notebook - Basics.ipynb
+
+## Guided Project_ Predicting the stock market
+  Machine Learning with Linear Regression
+
+    Python Script - predict.py
