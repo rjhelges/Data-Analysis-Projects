@@ -34,7 +34,7 @@ Personal analysis and visualization into gun violence
 ## Guided Project_ Analyzing CIA Factbook Data Using SQLite and Python
   Intro to using data analyis from a database using python and SQLite
 
-  	Jupyter notebook - Basics.ipynb
+    Jupyter notebook - Basics.ipynb
 
 ## Guided Project_ Analyzing Movie Reviews
   Intro to statistics in Python
@@ -44,7 +44,7 @@ Personal analysis and visualization into gun violence
 ## Guided Project_ Predicting Car Prices
   Intro to Machine Learning with K-Nearest Neighbor
 
-  	Jupyter notebook - Basics.ipynb
+    Jupyter notebook - Basics.ipynb
 
 ## Guided Project_ Predicting House Sales
   Intro to Machine Learning with Linear Regression
@@ -55,3 +55,8 @@ Personal analysis and visualization into gun violence
   Machine Learning with Linear Regression
 
     Python Script - predict.py
+
+## Guided Project_ Predicting Bike Rentals
+  Machine Learning with Decision Trees and Random Forests
+
+    Jupyter notebook - Basics.ipynb
