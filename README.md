@@ -60,3 +60,9 @@ Personal analysis and visualization into gun violence
   Machine Learning with Decision Trees and Random Forests
 
     Jupyter notebook - Basics.ipynb
+
+## Guided Project_ Creating a Kaggle Workflow
+  Creating machine learning workflow for Kaggle
+
+  	Jupyter notebook - Basics.ipynb
+  	
